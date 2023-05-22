@@ -13,7 +13,7 @@
 
 - 🏢 I'm a software engineer and a student at the Faculty of Computers and Artificial Intelligence, Benha
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 💬 Ask me about my experience with Java, Database, and C++, or anything related to software development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
 
