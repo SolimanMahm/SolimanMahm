@@ -25,6 +25,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)&nbsp;
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)&nbsp;
+![C++](https://img.shields.io/badge/-c++%20-05122A?style=flat&logo=cplusplus)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
