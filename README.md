@@ -23,8 +23,8 @@
 <a href="https://linkedin.com/in/soliman-mahmoud-soliman-2a844125b/" target="_blank"><img src="https://img.shields.io/badge/-Soliman%20Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/SOLIIII_MAHMOUD" target="_blank"><img src="https://img.shields.io/badge/-Soliman%20Mahmoud-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
+[C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)$nbsp;
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)$nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
