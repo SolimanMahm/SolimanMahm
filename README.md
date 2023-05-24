@@ -33,7 +33,7 @@
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows)&nbsp;
-
+![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=Linux)&nbsp;
 
 
 
