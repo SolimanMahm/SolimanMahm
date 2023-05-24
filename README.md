@@ -24,6 +24,7 @@
 <a href="https://t.me/SOLIIII_MAHMOUD" target="_blank"><img src="https://img.shields.io/badge/-Soliman%20Mahmoud-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
