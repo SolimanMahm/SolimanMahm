@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solimanmahm" alt="solimanmahm" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://solimanmahm.github.io/](https://solimanmahm.github.io/)
+- 👨‍💻 Some of my projects are available at [https://solimanmahm.github.io/](https://solimanmahm.github.io/)
 
 - 💬 Ask me about **Android Java**
 
